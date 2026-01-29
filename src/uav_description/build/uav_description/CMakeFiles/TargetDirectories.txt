@@ -1,0 +1,9 @@
+/home/protyush/uav_ws/src/uav_description/build/uav_description/CMakeFiles/uninstall.dir
+/home/protyush/uav_ws/src/uav_description/build/uav_description/CMakeFiles/uav_description_uninstall.dir
+/home/protyush/uav_ws/src/uav_description/build/uav_description/CMakeFiles/test.dir
+/home/protyush/uav_ws/src/uav_description/build/uav_description/CMakeFiles/edit_cache.dir
+/home/protyush/uav_ws/src/uav_description/build/uav_description/CMakeFiles/rebuild_cache.dir
+/home/protyush/uav_ws/src/uav_description/build/uav_description/CMakeFiles/list_install_components.dir
+/home/protyush/uav_ws/src/uav_description/build/uav_description/CMakeFiles/install.dir
+/home/protyush/uav_ws/src/uav_description/build/uav_description/CMakeFiles/install/local.dir
+/home/protyush/uav_ws/src/uav_description/build/uav_description/CMakeFiles/install/strip.dir

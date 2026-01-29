@@ -1,0 +1,4 @@
+Invoking command in '/home/protyush/uav_ws/build/uav_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/protyush/uav_ws/build/uav_description -- -j96 -l96
+Invoked command in '/home/protyush/uav_ws/build/uav_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/protyush/uav_ws/build/uav_description -- -j96 -l96
+Invoking command in '/home/protyush/uav_ws/build/uav_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/protyush/uav_ws/build/uav_description
+Invoked command in '/home/protyush/uav_ws/build/uav_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/protyush/uav_ws/build/uav_description
